@@ -1,3 +1,4 @@
+Time.now
 if TRUE
   puts "Even!"
 else 
