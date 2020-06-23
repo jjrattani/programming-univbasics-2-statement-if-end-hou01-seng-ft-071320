@@ -3,6 +3,5 @@ puts "Programer"
   if test code > 0.
     puts "likes to code"
   else
-    puts "doesn't like to code"
+    puts "even number"
 end
-puts "on Saturday"
