@@ -1,6 +1,6 @@
 code = jessica
 puts "Programer"
-  if code = jessica
+  if code = john
     puts "likes to code"
   else
     puts "doesn't like to code"
