@@ -1,6 +1,6 @@
-code = jessica
+test code = 4
 puts "Programer"
-  if code = john
+  if test code > 0.
     puts "likes to code"
   else
     puts "doesn't like to code"
